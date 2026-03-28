@@ -160,7 +160,7 @@ CineVerse/
 ### 1 Minute Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/CineVerse.git
+git clone https://github.com/Nikhil-vaishnav-17/CineVerse.git
 cd CineVerse
 
 # Frontend
@@ -484,7 +484,7 @@ CREATE TABLE Reviews (
 | Service | URL |
 |---------|-----|
 | **Application** | [https://cineverse-iig9.onrender.com/](https://cineverse-iig9.onrender.com/) |
-| **GitHub Repo** | https://github.com/yourusername/CineVerse |
+| **GitHub Repo** | https://github.com/Nikhil-vaishnav-17/CineVerse |
 
 ---
 
